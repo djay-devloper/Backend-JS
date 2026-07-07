@@ -21,3 +21,9 @@ app.get('/about', (req, res) => {
 app.listen(port, () => {
   console.log(`Server is successfully running on http://localhost:${port}`);
 });
+
+
+// initialize a new empty Node.js project.
+// Install Express
+// Write the Server Code: index.js file
+// Run Your Server
